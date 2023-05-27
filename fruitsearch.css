@@ -1,1 +1,7 @@
-body {background-color: aqua;}
+body{ background: rgb(1,0,4);
+    background: linear-gradient(90deg, rgba(1,0,4,1) 6%, rgba(73,227,105,1) 41%, rgba(23,80,129,1) 68%, rgba(0,212,255,1) 100%); }
+
+div1{position: relative;
+                top: 300px;
+                left: 650px
+}     
